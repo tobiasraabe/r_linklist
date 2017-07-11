@@ -11,7 +11,6 @@ Microsoft bietet eine R-Distribution an, [Microsoft R Open]
 kompatibel ist.
 
 
-
 ## IDE (Integrated Development Environment)
 
 Eine IDE ist eine Entwicklungsumgebung in der programmiert wird. Für die
@@ -42,7 +41,6 @@ decken sich mit denen von Jupyter, aber die Umsetzung scheint ein wenig
 schwieriger zu sein als mit Jupyter.
 
 
-
 # Packages
 
 Das Problem mit Packages unter R ist, dass es soviele mit gleichen oder
@@ -55,36 +53,19 @@ Das [Tidyverse](http://tidyverse.org/) ist eine Ansammlung von Packages und
 sollte die erste Anlaufstelle bei der Suche nach einer Funktion sein. Hier ist
 eine kurze Liste der Packages mit Funktionen:
 
-Haven
-:   Einlesen und Schreiben von Datensätzen von Statistikprogrammen wie Stata,
-    SAS, SPSS
-
-readr
-:   Einlesen und Schreiben von Datensätzen im Format .csv, .tsv, .fwf
-
-dplyr
-:   Funktionen zur Datenmanipulation, gruppieren, selektieren, filtern, etc.
-
-magrittr
-:   Ermöglicht das Schreiben von Pipelines in R, um lesbareren Code zu
-    schrieben
-
-stringr
-:   Funktionen zur Manipulation von Strings
-
-tidyr
-:   Funktionen, um seine Daten zu säubern
-
-ggplot2
-:   Erstellen von Grafiken
-
-packrat
-:   Dependency management für R-Projekte
-
-lintr
-:   Beim Linting wird der Code mit einem Style Guide verglichen, um die
-    Lesbarkeit des Codes zu erhöhen
-
+- **Haven**: Einlesen und Schreiben von Datensätzen von Statistikprogrammen wie
+  Stata, SAS, SPSS
+- **readr**: Einlesen und Schreiben von Datensätzen im Format .csv, .tsv, .fwf
+- **dplyr**: Funktionen zur Datenmanipulation, gruppieren, selektieren,
+  filtern, etc.
+- **magrittr**: Ermöglicht das Schreiben von Pipelines in R, um lesbareren Code
+  zu schrieben
+- **stringr**: Funktionen zur Manipulation von Strings
+- **tidyr**: Funktionen, um seine Daten zu säubern
+- **ggplot2**: Erstellen von Grafiken
+- **packrat**: Dependency management für R-Projekte
+- **lintr**: Beim Linting wird der Code mit einem Style Guide verglichen, um
+  die Lesbarkeit des Codes zu erhöhen
 
 ## Simple Features
 
@@ -92,7 +73,6 @@ lintr
 für die Arbeit mit geographischen Daten zu sein. Die Dokumentation ist eher
 schlecht als recht, aber es gibt ein paar Tutorials und Vignettes als Links auf
 der Seite.
-
 
 
 # Hilfe
