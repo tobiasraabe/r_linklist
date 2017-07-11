@@ -2,6 +2,18 @@
 R Linkliste
 ===========
 
+[Table of contents](https://tableofcontents.herokuapp.com)
+- [Installation](#installation)
+  - [R Distribution](#r-distribution)
+  - [IDE (Integrated Development Environment)](#ide-integrated-development-environment)
+    - [Jupyter](#jupyter)
+      - [Installation](#installation)
+    - [RStudio](#rstudio)
+- [Packages](#packages)
+  - [Tidyverse](#tidyverse)
+  - [Simple Features](#simple-features)
+- [Hilfe](#hilfe)
+
 # Installation
 
 ## R Distribution
