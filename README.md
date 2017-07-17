@@ -31,8 +31,13 @@ konvertieren.
 #### Installation
 
 1. Installiere [Anaconda für Python 3.x](https://www.continuum.io/downloads)
-2. Installiere [IRkernel](https://github.com/IRkernel/IRkernel), um Jupyter mit
+2. Installiere [Microsoft R Open](https://mran.microsoft.com/open/)
+3. Installiere [IRkernel](https://github.com/IRkernel/IRkernel), um Jupyter mit
    R zu nutzen
+   - Es kann ein Fehler auftreten, dass ``stringr`` nicht installiert ist.
+   ``install.packages(stringr)`` ausführen und Schritte wiederholen.
+   - Beim Schritt, in dem der Kernel registriert wird, den String an die
+   passende Versionsnummer von R anpassen
 
 ### RStudio
 
