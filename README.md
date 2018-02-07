@@ -62,7 +62,11 @@ schwieriger zu sein als mit Jupyter.
 
 Das Problem mit Packages unter R ist, dass es soviele mit gleichen oder
 überlappenden Funktionen gibt. Dazu passiert es oft, dass man auf Vorläufer von
-neueren Packages verwiesen wird oder stößt.
+neueren Packages verwiesen wird oder stößt. Gute Möglichkeiten, um den Dschungel
+zu durchkämmen bieten:
+- https://rseek.org/: eine R-Suchmaschine für Packages, Tutorials, etc.
+- https://mran.microsoft.com/packages: der Package Manager von MRO biete zu
+  jedem Package hilfreiche Links, etc.
 
 ## Tidyverse
 
